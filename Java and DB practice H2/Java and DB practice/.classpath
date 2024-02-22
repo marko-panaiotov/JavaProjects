@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Ski Resort Project/src"/>
+	<classpathentry kind="lib" path="Ski Resort Project/Database/h2-2.1.214.jar"/>
+	<classpathentry kind="output" path="Ski Resort Project/out/production/Ski Resort Project"/>
+</classpath>
